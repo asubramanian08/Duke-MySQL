@@ -1,0 +1,60 @@
+INTRODUCTION TO QUERY SYNTAX: -V
+DQL: Data Query Language (only be covering)
+Group of SQL code is a query
+Enter the query into the 'front end interface'(FEI)
+The above interfaces vary wildly
+All queries start with 'SELECT'
+Later line ask the format, the database, and the exact data
+6 SQL keywords:
+    SELECT (required) the data I want
+    FROM (required) these database and tables
+    WHERE these criteria are met, and
+    GROUP (BY) this field
+    HAVING this property, then
+    ORDER (BY) this field or list
+Queries usually end with ';'
+Never specify how to execute a query
+Recommend to make each claus on a separate line (with a keyword on it)
+Have coworkers review your query
+Table and column tables -> don't write uppercase
+can call a function () like SUM
+Use a period to specify table of column, ex: color.red
+0 != no data, to do that saw NULL
+2 systems we will be working with:
+        Dataset     |   Database    |       FEI         
+    ----------------|---------------|-------------------
+        Dognition   |   MySQL       |   Jupyter         
+        Dillard's   |   Teradata    |   SQL scratchpad  
+
+HOW TO USE JUPYTER NOTEBOOKS: -V
+Jupyter is a FEI (see above)
+Made from collaboration
+Helps instructor comment and help with her examples
+Jupyter will be easier so do that first, then teradata
+Press open and it will open a notebook, there is a cell to write code
+Put the code in the In[] box.
+Press the run cell, a '*' will be there while its running
+When running a long query it will impact group of 150
+There are some safe guards the instructors made to make it less likely to crash
+Only get 1,000 rows
+Clear output if you don't need it (wastes energy) Cell -> current output -> clear
+To quit a query: click the stop (square)
+The type of a cell can to changed on a tool bar (code, markdown ...)
+Edit the order of the cells with arrows, cut, paste, copy
+"Jupyter has a great help resource"
+Can add cells as a Jupyter cell (I will download the notebooks)
+
+HOW TO USE YOUR JUPYTER ACCOUNT: -V
+Shut down a notebook when not being used -> save processing
+Can edit the notebook that I have ..., folders, rename
+The link to a lesson won't work if a notebook is renamed
+
+HOW TO USE JUPYTER (WRITTEN INTRODUCTIONS): -R
+Says almost the exact same thing as the video
+https://www.coursera.org/learn/analytics-mysql/lecture/oxkUg/how-to-use-jupyter-notebooks
+https://www.coursera.org/learn/analytics-mysql/lecture/wev1k/how-to-use-your-jupyter-account
+Each jupyter file is called a notebook
+Clear output of a query, links to the notebooks, running -> shutdown notebooks
+
+LINK TO YOUR JUPYTER HOME PAGE -L
+links saved in my bookmarks

@@ -1,0 +1,5 @@
+MYSQL EXERCISE 1: LOOKING AT YOUR DATA: -L
+The jupyter notebook is stored in this folder
+
+MySQL EXERCISE 1: ANSWER KEY -R
+answers downloaded

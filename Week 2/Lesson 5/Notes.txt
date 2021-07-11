@@ -1,0 +1,5 @@
+MySQL EXERCISE 3: FORMATTING SELECTED DATA: -R
+The jupyter notebook is stored in this folder
+
+MySQL EXERCISE 3: ANSWER KEY -R
+answers downloaded

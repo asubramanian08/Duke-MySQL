@@ -1,0 +1,5 @@
+MySQL EXERCISE 2: SELECTING DATA SUBSETS USING WHERE: -R
+The jupyter notebook is stored in this folder
+
+MySQL EXERCISE 2: ANSWER KEY -R
+answers downloaded

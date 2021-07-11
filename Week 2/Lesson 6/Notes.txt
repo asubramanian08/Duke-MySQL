@@ -1,0 +1,30 @@
+HOW TO USE TERADATA VIEWPOINT AND SQL SCRATCHPAD: -V
+Introduce the interface to interact with the dillard's DB
+Teradata Viewpoint -> SQL Scratchpad
+Created profile for Teradata
+And create a UATD
+List of all objects to the right
+Pin results fro in session saves, save query for permanent
+Top left has help
+Teradata uses TOP instead of LIMIT
+
+HOW LOGIN TO AND USE TERADATA VIEWPOINT (WRITTEN INSTRUCTIONS): -R
+get my login: https://duke.qualtrics.com/jfe/form/SV_3L4dhh7H4QnhxoF
+to login: http://uatdviewpoint.waltoncollege.uark.edu/
+
+WEEK 2 TERADATA PRACTICE EXERCISES GUIDE: -R
+save the queries that were worked though in the exercises
+pdf saved to this folder
+may answers are in this folder
+
+INTRODUCTION TO TERADATA: -R
+We are learning sql to get info from a database without asking someone else
+Will be harder than the jupyter interface because there is no guiding text
+These exercises will be given even less guidance
+Teradata is quite fast so gain an understanding of what queries take time
+Answers to the teradata exercises are not given -> use quiz to see if answers are right
+Another part of an analyst job is to write good queries and understand the database
+Goals:
+    Week 2: use teradata easily and note differences
+    Week 3: easily use the main keywords and be able to summarize data
+    Week 4/5: covert analysis question into a query, convent data from the way they are stored in the DB

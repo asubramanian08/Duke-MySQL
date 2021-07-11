@@ -1,0 +1,33 @@
+INTRODUCTION TO WEEK 2: -V
+Last week review ... 
+Writing SQL queries
+Make queries considerate to coworkers
+"Queries you write will affect the speed at which other people in the company can retrieve data."
+If a bad queries is written is will slow down database for others (150 other students)
+SQL queries to "verify and describe all the contents in a database
+Things that can make queries slow:
+    Asking for a large table (even though it is not needed)
+    Combining tables with duplicate values or a many to many relationship
+Interact with the 2 data sets
+Write queries by the end of the week
+
+MEET YOUR DOGNITION DATA: -V
+Real business data from the real business
+Eliot Cohen is the founder of Dognition.
+People to learn more about their dog
+The Dognition assignment 10 warm-ups and questions, one by one
+Make a hypothesis before diving in
+
+DOGNITION DATABASE INFORMATION: -R
+pdf file added to this lesson
+Contains their business (also was explained in video)
+Has a description of all the data (columns) they store
+
+MEET YOUR DILLARD'S DATA: -V
+Store Chain sells clothing, assories, home decor
+60-120 millions rows, one year's worth of data
+
+DILLARD'S DATABASE INFORMATION: -R
+pdf file added to this lesson
+Contains their business (also was explained in video)
+Has a description of all the data (columns) they store

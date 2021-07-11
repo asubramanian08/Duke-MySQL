@@ -1,0 +1,1 @@
+Lesson 2: Using the Jupyter Interface for MySQL Queries

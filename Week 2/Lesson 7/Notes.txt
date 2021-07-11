@@ -1,0 +1,16 @@
+READ BEFORE STARTING QUIZ 2: -R
+Go though the exercises before doing the quiz
+Quiz has very similar problems -> save exercises queries
+
+WEEK 2 GRADED QUIZ USING TERADATA: -Q
+Multiple choice, Got 100% in the quiz
+
+WEEK 2 QUIZ: ANSWERS AND FEEDBACK: -R
+Quiz + answers saves in pdf file in this folder
+
+YOU HAVE ALREADY BECOME A DIFFERENT LEVEL OF BUSINESS ANALYST: -V
+Only way to learn sql is to practice it
+Go through both exercises
+Already learned a lot compared to those who don't know sql
+Know what is stored, and can export data
+Next week we will make calculations, group things in a query, and segment data
