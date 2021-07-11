@@ -1,0 +1,22 @@
+SPECIAL NOTE: -R
+Its important to do the teradata exercises before the quiz
+A lot of the questions are modified versions of those questions
+
+WEEK 5 GRADED QUIZ USING TERADATA: -Q
+I took the quiz and got 100%
+
+QUIZ 5 ANSWERS AND FEEDBACK: -R
+The pdf is downloaded
+
+DON'T BE AFRAID TO ASK QUESTIONS: -V
+Congrats!! Value to business
+I can learn a lot of things
+There are questions for making things efficient
+Use the internet (stack overflow)
+You can ask around in work
+    you don't need to know everything about databases
+Eager to learn -> keep understanding
+Even senior people ask questions (they can't know everything)
+Mistakes are ok, the tech world is about learning
+Make sure you tell people that you did make a mistake
+There is a great culture around the tech community
