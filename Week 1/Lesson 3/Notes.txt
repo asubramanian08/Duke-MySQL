@@ -1,0 +1,15 @@
+HOW TO MAKE ENTITY-RELATIONSHIP DIAGRAMS USING ERDPlus: -V
+Link: https://erdplus.com
+Diagram -> new -> ER Diagram
+Click on a name to open the ERD
+Top for adding things / object
+Right side from manipulating the current object
+Very intuitive and self explanatory
+Can export the diagram or image by clicking on the top left
+
+ENTITY-RELATIONSHIP WRITTEN EXERCISES: -R
+The pdf is downloaded
+My answers are on a png file
+
+ENTITY-RELATIONSHIP WRITTEN EXERCISES: ANSWER KEY: -R
+The pdf is downloaded

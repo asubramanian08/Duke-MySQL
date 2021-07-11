@@ -1,0 +1,35 @@
+WELCOME TO MANAGING BIG DATA WITH MySQL: -V
+Retrieving data to analyze it and make decisions
+Real life examples
+Make: diagrams, code to write to business database
+Quizzes at the end of the week
+
+WHAT YOU WILL LEARN IN THIS COURSE: -V
+Put lots of data in database
+How do you nicely take the data out?
+SQL get data from relational databases (RDB)
+Relational database: general organization
+MySQL is open source and "well understood"
+We also use a teradata database -> good to make analyzes
+Will have learned:
+    Describe to structure of RDB
+    Relationship diagrams
+    Queries and sorting data
+    Limit the impact of queries on other coworkers
+    Summarize  data 
+    Combine / Cumulative representation
+    Get data based on dynamic features
+    Translate analysis questions to SQL queries
+
+COURSE OVERVIEW: -R
+Will be able to be a data analyst in business
+Course builds week by week
+Will be learned list (on website, ~the above list)
+Useful links (on website)
+
+IMPORTANT FOR EVERY LEARNER: -R
+If you don't pay you can't submit, get feedback, or get certificate
+Access the jupyter notebook for 6 months -> save it to drive
+
+SPECIAL THANKS: -R
+List of people that helped out

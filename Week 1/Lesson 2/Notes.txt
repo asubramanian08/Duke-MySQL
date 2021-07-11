@@ -1,0 +1,39 @@
+DATABASE DESIGN TOOLS THAT WILL HELP YOU LEARN SQL FASTER: -V
+Queries: how you ask a database for data
+Standard Query Language (SQL): how most queries work
+Learn the RDB model to understand SQL
+Entity-Relationship Diagram (ER Diagram): how the data is related
+Relational Schemas: maps of the DB, missing info that is in the ERD
+ERDPlus (Nened) -> online tool he made
+
+HOW ENTITY-RELATIONSHIP DIAGRAMS WORK: -V
+ER Diagrams communicate the structure of DB before making
+Rectangles: Entities (catagories of data) -> tables
+    Entity instance: and occurrence of the entity -> row
+    Unique Attribute: the value that is unique for every entity instance -> column for IDs
+Ovals: Attributes (aspects of a category) -> column
+    Must be attached to and entity; unique for an entity
+    Underlined if they are the unique attribute
+Diamonds (+lines): show relationship between entity, word inside shows relationship
+    One or multiple relationship between entities (ex. multiple addresses for contact?)
+    Symbol closer and father represent the min and max instances of one entity in the other
+    Symbol notation: | (one), < or > (many), M or N (infinity), O (optional, needs some other connection)
+        (#min,#max) (specified numbers) -> always min = left and max = right
+
+DATABASE STRUCTURES ILLUSTRATED BY ENTITY-RELATIONSHIP DIAGRAMS: -V
+An attribute in parenthesis is defined by more attributes that aren't made into columns
+Double rectangle: week entity
+Dashed attribute: can't completely be unique -> can be unique if connect to entity with double diamond
+Might sometimes need multiple tables for a query
+
+RELATIONAL SCHEMAS: -V
+Components of RS: Tables, Primary Keys, Foreign Keys
+RS is a plan and is not equivalent to a RDB
+Box: Relation (organization of the psychical basis of the DB) ~table
+    Set of attributes (no order) ~columns
+    Tuple (entry of the relation, no order) ~row
+Primary Key: Unique identifier (only one)
+There can be other unique columns (mark with U)
+Foreign key: link tables (refer to unique ids on other tables, arrow to U, make FK)
+    connections symbols can be used similar to the ERD
+Many to Many relationship: multiple instances of one another (complicated), insert an entity in between

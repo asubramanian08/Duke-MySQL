@@ -1,0 +1,16 @@
+HOW TO MAKE RELATIONAL SCHEMAS DIAGRAMS USING ERDPlus: -V
+Diagram -> new -> Relational Schemas
+Click on the name to open the RS
+Top for adding things / object
+Right side from manipulating the current object
+Very intuitive and self explanatory
+an export the diagram or image by clicking on the top left
+
+RELATIONAL SCHEMAS WRITTEN EXERCISES: -R
+Arrows go from Foreign key to the key
+In a many to one relationship put the Foreign key in to Many entity
+The pdf is downloaded
+My answers are on a png file
+
+RELATIONAL SCHEMAS WRITTEN EXERCISES: ANSWER KEY: -R
+The pdf is downloaded

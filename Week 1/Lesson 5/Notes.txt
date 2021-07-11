@@ -1,0 +1,24 @@
+DOGNITION RELATIONAL SCHEMA PRACTICE EXERCISE: -R
+The pdf is downloaded, didn't do (very complex MUL ... )
+
+DILLARD'S RELATIONAL SCHEMAS PRACTICE QUESTIONS: -R
+The pdf is downloaded, my answers are below
+1. The STORE_MSA store
+2. The STRINFO store and the SKUINFO sku
+3. Register, trancode, saledate, seq
+4. STRINFO and SKUINFO have a many-to-many relationship
+5. For every TRNSACT there is one STRINFO, SKUINFO, and STORE_MSA and each of those can have any number of 
+TRNSACTs. For every SKSTINFO there is one STRINFO and SKUINFO and each of those can have any number of SKSTINFOs. 
+A DEPTINFO can have any number of SKUINFO but one insentience of SKUINFO can only have one DEPTINFO.
+
+WEEK 1 GRADED QUIZ: -Q
+I got a 100% (multiple choice)
+About the information in my notes
+
+WEEK ONE QUIZ: ANSWERS AND FEEDBACK: -R
+The pdf is downloaded (Week-1_Assessment.pdf)
+This gives the questions, answers, and some feedback that coursera would have given
+
+WRAPPING UP WEEK 1: -V
+Should have understood how relational databases work
+Next week we will learn to right queries

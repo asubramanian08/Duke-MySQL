@@ -1,0 +1,23 @@
+PROBLEM WITH HAVING A LOT OF DATA USED BY A LOT OF PEOPLE: -V
+Why not put everything in a spreadsheet
+Excel could crash, line up of people trying to open
+Multiple spreadsheets created -> find right one
+People Writing over the same thing
+If one thing changes / there is a mistake -> many thing have to change
+There is a separate analyses spreadsheets that can't constantly be up to date
+Problems to solve: speed in queries, updates, handle many people, consistent, secure, fast, space
+
+HOW REGINAL DATABASES HELP SOLVE THOSE PROBLEMS: -V
+Breaks up the data (faster to add and find)-> table, one  common relationship
+Be able to link table to the tables -> a column that links (~id)
+Don't need to be in sync row for row
+Set theory:
+    set: collection of things that has common features
+    table is combination of the set of rows and columns
+    Math shows how to combine / manipulate data
+Requirements of RDB:
+    Tables = smallest subset of data
+    column - unique category information
+    row - unique
+    order of rows and columns doesn't matter
+RDB can help prevent mistakes
