@@ -1,0 +1,19 @@
+WELCOME TO WEEK 3: -V
+Review of what was learned last week
+Summarize values across columns
+Break up the summery based on the values
+Combine info from different tables!! :)
+Manipulate data to make it easier to analyze
+Ways to summarize: count(COUNT), add(SUM), average(AVG), maximum(MAX) (aggregate functions)
+This week we will learn to combine columns to be aggregated in different ways. Separate then summarize
+
+MySQL EXERCISE 4: SUMMARIZING YOUR DATA: -L
+The notebook with my answers is stored
+
+HABITS THAT WILL HELP YOU AVOID MISTAKES: -V
+Get a good sense of how to write sql queries
+Create value out of data
+Make sure that the queries give results that help
+What questions matter and will they help the business
+Being able to understand how the data or query could be off
+Be skeptical about your data, look at subsets

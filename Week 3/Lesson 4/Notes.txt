@@ -1,0 +1,5 @@
+MySQL EXERCISE 7: INNER JOINS: -L
+the jupyter notebook is saved in this folder
+
+MySQL EXERCISE 7: ANSWER KEY -R
+the answer key to the questions have been downloaded

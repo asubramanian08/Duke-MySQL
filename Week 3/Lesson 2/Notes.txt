@@ -1,0 +1,12 @@
+MySQL EXERCISE 5: BREAKING YOUR SUMMARIES INTO GROUPS: -L
+This is an important lab, saved in this folder
+
+MySQL EXERCISE 5: ANSWER KEY -R
+this didn't use default limits
+answer key downloaded at pdf
+
+MySQL EXERCISE 5: COMMON PITFALLS OF GROUP BY: -L
+saved in this folder
+
+THERE IS NO ANSWER KEY FOR MySQL EXERCISE 6: -R
+all of the questions are answered on the notebook

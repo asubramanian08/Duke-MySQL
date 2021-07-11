@@ -1,0 +1,6 @@
+MySQL EXERCISE 8: OUTER JOINS: -L
+the jupyter notebook is saved in this folder
+
+MySQL EXERCISE 8: ANSWER KEY -R
+the answer key to the questions have been downloaded
+the limit is not already added for these

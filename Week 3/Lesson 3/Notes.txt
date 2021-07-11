@@ -1,0 +1,24 @@
+WHAT ARE JOINS: -V
+NOTE: this is for a one to one relationship
+Breaking large set into tables
+Joins: Class of sql commands to use tables together
+Might be hard to understand -> know fundamentals
+Looking up / searching is slow to operations
+Use set theory to solve this problem
+Multiples the 2 sets to make a table / combination
+This can get messy for duplicate rows or many-to-many
+Can't use null values to link tables
+Inner join: value is contained in both unique columns of the table
+Outer join: keep the rows of the first table and add conns. for those in second
+    The first / second is determined if its is a LEFT join or RIGHT join
+FULL outer join: keeps all the data if doesn't match (many DB don't support it)
+
+JOINS WITH MANY-TO-MANY RELATIONSHIP AND DUPLICATES: -V
+Many to many: first join the assignment table with the first table, then join that with the second
+Most times, the types of joins are not varied when joining multiple tables.
+Joins keep duplicate rows -> they will multiply and make many useless rows
+Solution: clean data -> rid of duplicates, small examples, break down each join
+
+A NOTE ABOUT OUR JOIN EXAMPLES: -V
+In text books there aren't any null values for linking keys and or duplicate rows
+This can be an example of real life -> start ups
