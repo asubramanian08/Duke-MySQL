@@ -1,0 +1,11 @@
+WELCOME TO WEEK 4: -V
+Subqueries (Nested queries): breaking up operations into separate steps, More elegant ways to represent steps, 
+    important to format the queries, interpret inner queries then build upward
+Learn other logical functions, translate questions into queries
+The hardest part is to actually translate everyday language into queries
+
+MySQL EXERCISE 9: SUBQUERIES AND DERIVED TABLES: -L
+The jupyter notebook is stored in this folder
+
+MySQL EXERCISE 9: ANSWER KEY -R
+The pdf is downloaded

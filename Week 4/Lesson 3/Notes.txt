@@ -1,0 +1,50 @@
+START WITH AN ANALYSIS PLAN: -V
+As a business analyst you have to clarity with the business should do to fix a problem
+Make this process quick and efficient, keep stakeholders posted
+Make a plan to analyze the data before actually looking at it
+Value is created from a decision and plan of action that is feasible not necessarily ideal
+Always be thinking about:
+    "What questions will provide valuable insight?"
+    "Will the answers to my questions matter?"
+    "Are the answers to my questions correct?" -> aggregate queries
+Analysis Paralysis: there are too many ways to look at some data that you don't do any of them
+Analysis Free For All: keep looking at what might be interesting instead of creating value
+Both problems start when you first look at data to understand what it is about 
+    -> "biasing strategy"
+    -> make a plan before hand
+    -> then look at the data and do the analysis
+Structured Pyramid Analysis Plans (SPAP) 
+    -> important to be done before looking at data
+    -> one is already provided
+    -> BELOW IS THE ORDERING OF EVERYTHING
+SMART Goal: Top of the pyramid
+    -> Specific
+    -> Measurable
+    -> Attainable
+    -> Relevant
+    -> Time Bound
+Dependent variable: Underneath the SMART goal
+Expanding catagories of issues that form the pyramid shape: In the second section
+    -> "Under normal circumstances these categories would be derived from conversations with your stakeholders
+    and your analysis team during a process called elicitation"
+    -> write the column names and process needed (Independent Variable) -> easier to write queries
+Data analysis is far from the only thing involved in the project
+        / SPAP outline \
+       /----------------\
+      /    SMART GOAL    \
+     / Dependent Variable \
+    /----------------------\
+   /     Tree of Issues     \
+  /--------------------------\
+ / Specifics: Queries, Graphs \
+/------------------------------\
+The questions that we will analyse will be similar to real analysis questions
+
+DOGNITION STRUCTURED PYRAMID ANALYSIS PLAN (SPAP): -R
+The pdf is in the folder, its has a tree with text boxes to help understand what is there
+
+MySQL EXERCISE 11: QUERIES THAT TEST RELATIONSHIPS BETWEEN TEST COMPLETION AND DOG CHARACTERISTICS: -L
+The jupyter notebook is stored in this folder
+
+MySQL EXERCISE 11: ANSWER KEY -R
+The pdf is downloaded

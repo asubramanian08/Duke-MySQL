@@ -1,0 +1,11 @@
+MySQL EXERCISE 12: QUERIES THAT TEST RELATIONSHIPS BETWEEN TEST COMPLETION AND TESTING CIRCUMSTANCES: -L
+The jupyter notebook is stored in this folder
+
+MySQL EXERCISE 12: ANSWER KEY -R
+The pdf is downloaded
+
+NO WEEK FOUR QUIZ: -R
+There is no quiz at the end of this lesson
+Everything that was learned will be quizzed in week 5
+The next exercise on week 5 doesn't have an answer key
+You can always ask the discussion board for questions
