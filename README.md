@@ -2,7 +2,7 @@
 
 ### Organization
 
-The course is divided by week then by lesson number. In each lesson there is the name of the lesson and my notes on what was taught. Some lessons have pdfs on the material or questions on what was taught. There are jupyter notebooks as well as sql files to show what queries I wrote. At the end of every week there is a quiz, the questions and solutions are in that lesson.
+The course is divided by week then by lesson number. In each lesson there is the name of the lesson and my notes on what was taught. Some lessons have pdfs on the material or questions on what was taught. There are jupyter notebooks _private_ as well as sql _public_ files to show what queries I wrote. At the end of every week there is a quiz _private_, the questions and solutions are in that lesson.
 
 ### About
 
